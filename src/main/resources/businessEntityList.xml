@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<businessEntityList count="2" xmlns="localhost/labs/shema">
+<businessEntityList xmlns="localhost/labs/shema">
    <businessEntity>
       <id>ece882ce-e777-4bd3-80d7-4309ed70852f</id>
       <status>100</status>
